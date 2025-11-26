@@ -1,3 +1,7 @@
+![Git Commands Screenshot](images/git_commands.png)
+![GitHub Screenshot](images/github.png)
+
+
 # 📘 Number Guessing Game – Python
 A command-line based number guessing game with multiple difficulty levels, input validation, attempt limits, and replay support.  
 This project is created as part of the **FCS (Fundamentals of Computer Science)** assignment.
