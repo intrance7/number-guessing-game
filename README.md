@@ -1,5 +1,4 @@
 ![Git Commands Screenshot](images/git_commands.png)
-![GitHub Screenshot](images/github.png)
 
 
 # 📘 Number Guessing Game – Python
